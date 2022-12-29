@@ -16,3 +16,7 @@
 (SSR은 아님, snowflake.js에 의해 동작함)
 
 <img width="553" alt="스크린샷 2022-12-29 오후 9 27 05" src="https://user-images.githubusercontent.com/66232436/209951054-6eaac687-99e2-47f1-87a6-6a447915bcfc.png">
+
+
+리액트웹에 적용한 모습
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/66232436/209951317-a9b35999-8f73-4c11-b9b8-c2117ed4bd48.gif)
